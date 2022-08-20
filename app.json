@@ -1,9 +1,9 @@
 {
-    "name": "BADBOY BY BADBOY MODER",
+    "name": "علي حيدر الواقدي ",
     "description": "pinky bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
+    "logo": "https://raw.githubusercontent.com/u/itsme-badboy/Badbotz/master/adbotz.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/lastpink",
+    "repository": "https://github.com/itsme-badboy/lastpink",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -148,7 +148,7 @@
         "WORK_TYPE": {
             "description": "pinky  Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. and if you use “admin”, only admin can use bot and not all feature (only features needed to maintain a standerd group)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
@@ -166,8 +166,8 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
-        },
+            "value": "/n ```l Am Aliv  !!!```\n\n ```Type```*.help* ```for commands```/n/n```Badbotz```/n/n```coded by Badbotz/n"
+        }
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
             "required": false,
